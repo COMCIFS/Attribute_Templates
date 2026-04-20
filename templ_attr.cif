@@ -769,7 +769,7 @@ save_
 
 save_cromer_mann_coeff
 
-    _definition.update           2026-04-09
+    _definition.update           2026-04-20
     _description.text
 ;
     The set of data items used to define Cromer-Mann coefficients
@@ -795,7 +795,7 @@ save_cromer_mann_coeff
 
 save_hi_ang_fox_coeffs
 
-    _definition.update           2026-04-09
+    _definition.update           2026-04-20
     _description.text
 ;
     The set of data items used to define Fox et al. coefficients
