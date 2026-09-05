@@ -510,7 +510,7 @@ save_cartn_matrix
 
     The default transformation matrix uses Rollett's axial assignments with
     cell vectors a,b,c aligned with orthogonal axes X,Y,Z so that c||Z and
-    b in plane YZ.
+    b lies in the YZ plane.
 
     Ref: Rollett, J. S. (1965). Computing Methods in Crystallography, p. 22.
     Oxford: Pergamon Press.
@@ -596,7 +596,7 @@ save_fract_matrix
 
     The default transformation matrix uses Rollett's axial assignments with
     cell vectors a,b,c aligned with orthogonal axes X,Y,Z so that c||Z and
-    b in plane YZ.
+    b lies in the YZ plane.
 
     Ref: Rollett, J. S. (1965). Computing Methods in Crystallography, p. 22.
     Oxford: Pergamon Press.
