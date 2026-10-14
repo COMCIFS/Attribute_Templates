@@ -7,7 +7,7 @@ Sets of attributes to be reused in the definitions of data items and dictionary 
 
 [This file](templ_attr.cif) is the latest **draft** version.
 Definitions are subject to change and software should be careful not to hard-code information.
-The latest approved enumeration template file is available from the [IUCr CIF website](https://www.iucr.org/__data/iucr/cif/dictionaries/).
+The latest approved attribute template file is available from the [IUCr CIF website](https://www.iucr.org/resources/cif/dictionaries/).
 
 ## Contributing
 
